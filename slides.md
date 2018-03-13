@@ -1,3 +1,1 @@
-# Coopdevs
-
 ![](images/projects.png)
