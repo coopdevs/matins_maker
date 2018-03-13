@@ -1,6 +1,6 @@
 # Matins maker
 
-Recursos de la sessió *Matins maker* del <!--- Nom de l'esdeveniment, meetup, curs, etc. --> de <!--- Nom de l'organitzador --> del <!--- data -->.
+Recursos de la sessió *Matins maker* de BCN Digital del 14 de març de 2018.
 
   * [Diapositives](slides.md)
   * [Diapositives en PDF]()
